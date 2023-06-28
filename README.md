@@ -1,2 +1,2 @@
 # JP-MorganChase-Virtual-Work-Experience
-Virtual sofware engineering work experience completed with JP Morgan Chase on Forage in June 2023
+Virtual software engineering work experience completed with JP Morgan Chase on Forage in June 2023
